@@ -2,7 +2,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyCompany("Sharp Architecture Development Team")]
-[assembly: AssemblyCopyright("Copyright © Sharp Architecture Development Team")]
+[assembly: AssemblyCopyright("Copyright ?Sharp Architecture Development Team")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
